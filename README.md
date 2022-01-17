@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="[https://honggacoding.tistory.com/url]" target="_blank"><img src="https://img.shields.io/badge/[Hstory]-[FFD400]?style=flat-square&logo=[Tistory)]&logoColor=white"/></a>
 
 <!--
 **Hongaproject/Hongaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
