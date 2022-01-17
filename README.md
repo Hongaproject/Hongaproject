@@ -1,7 +1,9 @@
-### Hi there 👋
+### my portfolio👋
 <a href="https://honggacoding.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TV Time&logoColor=white"/></a>
 <!--                                   설정이름 아이콘코드                   아이콘이름-->
+<a href="https://tkwlscjq13@naver.com/" target="_blank">
+<img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <!--
 **Hongaproject/Hongaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
