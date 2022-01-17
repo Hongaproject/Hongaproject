@@ -1,8 +1,6 @@
 ### Hi there 👋
 <a href="https://honggacoding.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/T-Blog-FFD400?style=flat-square&logo=TV Time&logoColor=white"/></a>
-<!--                                   설정이름 아이콘코드                    아이콘이름-->
-
 
 
 <!--
