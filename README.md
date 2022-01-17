@@ -1,5 +1,7 @@
 ### Hi there 👋
-<a href="https://honggacoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Hstory-#FFD400?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://honggacoding.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Hstory-FFD400?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!--
