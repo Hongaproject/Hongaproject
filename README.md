@@ -1,4 +1,4 @@
-### my portfolio👋
+### <a href="https://honggacoding.tistory.com/" target="_blank"> my portfolio👋
 <a href="https://honggacoding.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TV Time&logoColor=white"/></a>&nbsp;  
 <!--                                   설정이름 아이콘코드                   아이콘이름-->
