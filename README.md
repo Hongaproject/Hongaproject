@@ -1,6 +1,6 @@
 ### <a href="https://hsw-portfolio.vercel.app/" target="_blank"> my portfolio👋
   
-<a href="https://honggacoding.tistory.com/" target="_blank">
+<a href="https://velog.io/@hongga/posts" target="_blank">
 <img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TVTime&logoColor=white"/></a>&nbsp;  
 <!--                                   설정이름 아이콘코드                   아이콘이름-->
 <a href="mailto:tkwlscjq13@naver.com" target="_blank">
