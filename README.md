@@ -1,4 +1,4 @@
-
+### <a href="https://hsw-portfolio.vercel.app/" target="_blank"> my portfolio👋
   
 <a href="https://velog.io/@hongga/posts" target="_blank">
 <img src="https://img.shields.io/badge/Blog-FFD400?style=flat-square&logo=TVTime&logoColor=white"/></a>&nbsp;  
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
-<br> 실패를 두려워 하지 않고 항상 도전하고 배웁니다.
+<br> 실패를 두려워 하지 않고 항상 도전하고 배우는 홍성원입니다.
 <!--
 **Hongaproject/Hongaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
