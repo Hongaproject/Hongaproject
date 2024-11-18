@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
-<br> 실패를 두려워 하지 않고 항상 도전하고 배우는 홍성원입니다.
+<br> 실패를 두려워하지 않고 항상 도전하고 배우는 프론트엔드 개발자 홍성원입니다.
 <!--
 **Hongaproject/Hongaproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
